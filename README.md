@@ -6,7 +6,7 @@
 
 <br>
 
-## `2. Theory`
+## `2. Theory` 
 - [Web Fundamental](./Theory/01.%20Web%20Fundamental "Web Fundamental")
 - [HTML](./Theory/02.%20HTML "HTML")
 - [CSS](./Theory/03.%20CSS/ "CSS")
