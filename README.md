@@ -20,7 +20,7 @@
 - ### [04.CSS](./PW-Skills-MCQ/04.CSS/ "CSS MCQ")
 - ### [05.JavaScript](./PW-Skills-MCQ/05.JavaScript/ "JavaScript MCQ")
 - ### [06.Git and GitHub](./PW-Skills-MCQ/06.Git%20and%20GitHub/ "Git and GitHub MCQ")
-- ### [07.Networking](./PW-Skills-MCQ/07.Networking/ "Networking MCQ")
+- ### [07.Networking and Operating System](./PW-Skills-MCQ/07.Networking%20and%20Operating%20System/ "Networking and Operating System MCQ")
 
 <br>
 
@@ -32,7 +32,7 @@
 - ### [04.CSS](./PW-Skills-Notes/04.CSS/ "CSS Notes")
 - ### [05.JavaScript](./PW-Skills-Notes/05.JavaScript/ "JavaScript Notes")
 - ### [06.Git and GitHub](./PW-Skills-Notes/07.Networking/ "Git and GitHub Notes")
-- ### [07.Networking](./PW-Skills-MCQ/07.Networking/ "Networking Notes")
+- ### [07.Networking and Operating System](./PW-Skills-Notes/07.Networking%20and%20Operating%20System/ "Networking and Operating System Notes")
 
 <br>
 
