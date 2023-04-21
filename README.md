@@ -9,6 +9,7 @@
 - ### [03.HTML](./PW-Skills-Assignments/03.HTML/ "HTML Assignments")
 - ### [04.CSS](./PW-Skills-Assignments/04.CSS/ "CSS Assignments")
 - ### [05.JavaScript](./PW-Skills-Assignments/05.JavaScript/ "JavaScript Assignments")
+- ### [06.Fundamentals of Database](./PW-Skills-Assignments/06.Fundamentals%20of%20Database/ "Fundamentals of Database")
 
 <br>
 
@@ -21,6 +22,7 @@
 - ### [05.JavaScript](./PW-Skills-MCQ/05.JavaScript/ "JavaScript MCQ")
 - ### [06.Git and GitHub](./PW-Skills-MCQ/06.Git%20and%20GitHub/ "Git and GitHub MCQ")
 - ### [07.Networking and Operating System](./PW-Skills-MCQ/07.Networking%20and%20Operating%20System/ "Networking and Operating System MCQ")
+- ### [08.Fundamentals of Database](./PW-Skills-MCQ/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
 
 <br>
 
@@ -33,6 +35,7 @@
 - ### [05.JavaScript](./PW-Skills-Notes/05.JavaScript/ "JavaScript Notes")
 - ### [06.Git and GitHub](./PW-Skills-Notes/07.Networking/ "Git and GitHub Notes")
 - ### [07.Networking and Operating System](./PW-Skills-Notes/07.Networking%20and%20Operating%20System/ "Networking and Operating System Notes")
+- ### [08.Fundamentals of Database](./PW-Skills-Notes/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
 
 <br>
 
