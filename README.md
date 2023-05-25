@@ -36,6 +36,8 @@
 - ### [06.Git and GitHub](./PW-Skills-Notes/07.Networking/ "Git and GitHub Notes")
 - ### [07.Networking and Operating System](./PW-Skills-Notes/07.Networking%20and%20Operating%20System/ "Networking and Operating System Notes")
 - ### [08.Fundamentals of Database](./PW-Skills-Notes/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
+- ### [09.NoSQL and MongoDB](./PW-Skills-Notes/09.NoSQL%20and%20MongoDB/ "NoSQL and MongoDB")
+
 
 <br>
 
