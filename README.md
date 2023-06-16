@@ -10,6 +10,7 @@
 - ### [04.CSS](./PW-Skills-Assignments/04.CSS/ "CSS Assignments")
 - ### [05.JavaScript](./PW-Skills-Assignments/05.JavaScript/ "JavaScript Assignments")
 - ### [06.Fundamentals of Database](./PW-Skills-Assignments/06.Fundamentals%20of%20Database/ "Fundamentals of Database")
+- ### [07.Node JS](./PW-Skills-Assignments/07.Node%20JS/ "Node JS")
 
 <br>
 
@@ -23,6 +24,7 @@
 - ### [06.Git and GitHub](./PW-Skills-MCQ/06.Git%20and%20GitHub/ "Git and GitHub MCQ")
 - ### [07.Networking and Operating System](./PW-Skills-MCQ/07.Networking%20and%20Operating%20System/ "Networking and Operating System MCQ")
 - ### [08.Fundamentals of Database](./PW-Skills-MCQ/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
+- ### [09.Node JS](./PW-Skills-MCQ/09.Node%20JS/ "Node JS")
 
 <br>
 
@@ -36,7 +38,9 @@
 - ### [06.Git and GitHub](./PW-Skills-Notes/07.Networking/ "Git and GitHub Notes")
 - ### [07.Networking and Operating System](./PW-Skills-Notes/07.Networking%20and%20Operating%20System/ "Networking and Operating System Notes")
 - ### [08.Fundamentals of Database](./PW-Skills-Notes/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
-- ### [09.NoSQL and MongoDB](./PW-Skills-Notes/09.NoSQL%20and%20MongoDB/ "NoSQL and MongoDB")
+- ### [09.SQL](./PW-Skills-Notes/09.SQL/ "SQL")
+- ### [10.NoSQL and MongoDB](./PW-Skills-Notes/10.NoSQL%20and%20MongoDB/ "NoSQL and MongoDB")
+- ### [11.Node JS](./PW-Skills-Notes/11.Node%20JS/ "Node JS")
 
 
 <br>
