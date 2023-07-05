@@ -1,0 +1,30 @@
+Q.2 Explain Semantic tags in html? And why do we need it?
+
+Ans. Semantic tags in HTML are elements that provide meaning and context to the content within a
+web page. They go beyond pure presentational markup and help define the structure and purpose of
+different sections of a webpage. Some examples of semantic tags introduced in HTML5 include
+<header>, <nav>, <article>, <section>, <aside>, <footer>, and many more.
+
+
+The use of semantic tags is important for several reasons:
+Accessibility: Semantic tags improve the accessibility of web content for people using assistive
+technologies, such as screen readers. By using semantic tags, you provide meaningful structure and
+labels to assistive technologies, allowing them to accurately interpret and convey the content to
+users with disabilities.
+
+Search engine optimization (SEO): Search engines rely on the structure and context of HTML content
+to understand the relevance and importance of different sections within a webpage. By using 
+semantic tags, you provide clear indications to search engines about the purpose and hierarchy of
+content, potentially improving the page's visibility in search results.
+  
+Code maintainability and readability: Semantic tags make the HTML code more self-explanatory and 
+easier to understand for developers, especially when working collaboratively or maintaining the 
+codebase over time. The use of semantic tags helps to create a logical structure and organization
+of content, making it easier to navigate and modify.
+
+Styling and theming: Semantic tags can make it easier to apply consistent styling and theming 
+across different web pages. CSS frameworks and stylesheets often target semantic tags to apply 
+default styling or provide hooks for customization. Using semantic tags allows you to take 
+advantage of these frameworks and stylesheets more effectively.
+
+Future-proofing: Semantic tags provide a foundation for future developments in HTML and the web. By embracing semantic markup, you align your code with evolving web standards and best practices, making it easier to adapt to new technologies and techniques as they emerge.
