@@ -1,0 +1,36 @@
+Q.9 What’s the difference between html tag and attribute and give example of some global attributes?
+
+Ans. In HTML, there is a distinction between HTML tags and attributes. Here's an explanation of each, along with examples of global attributes:
+
+HTML Tag:
+HTML tags are the fundamental building blocks of an HTML document.
+Tags are represented by opening and closing angle brackets < > and enclose content or other elements.
+They define the structure and semantics of the content within an HTML document.
+Examples of HTML tags include <html>, <head>, <body>, <p>, <div>, <a>, etc.
+
+HTML Attribute:
+HTML attributes provide additional information or modify the behavior of HTML elements.
+Attributes are specified within the opening tag of an element and consist of a name-value pair.
+They provide extra details, instructions, or properties to the element they are applied to.
+Examples of attributes include class, id, src, href, alt, style, etc.
+
+Global Attributes:
+Global attributes are attributes that can be used with any HTML element. Here are some examples:
+
+class: Specifies one or more CSS class names to apply to an element for styling or JavaScript manipulation.
+Example: <div class="container">...</div>
+
+id: Provides a unique identifier for an element, allowing it to be targeted by JavaScript or CSS.
+Example: <h1 id="page-title">Welcome!</h1>
+
+style: Inline CSS styles to apply directly to an element for styling purposes.
+Example: <p style="color: red;">This is some text.</p>
+
+title: Provides additional information or a tooltip for an element when the user hovers over it.
+Example: <img src="image.jpg" alt="Example" title="This is an example image.">
+
+data-*: Allows the addition of custom data attributes for storing data that can be accessed via JavaScript.
+Example: <div data-user-id="123">John Doe</div>
+
+aria-*: Used for providing accessibility-related information to assistive technologies.
+Example: <button aria-label="Close">X</button>
