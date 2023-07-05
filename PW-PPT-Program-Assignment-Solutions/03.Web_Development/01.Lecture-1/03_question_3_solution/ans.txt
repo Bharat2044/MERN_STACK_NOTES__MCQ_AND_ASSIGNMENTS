@@ -1,0 +1,17 @@
+Q.3 Differentiate between HTML Tags and Elements?
+
+Ans. 
+HTML Tags:
+Tags are the building blocks of HTML markup.
+Tags are enclosed in angle brackets (< >).
+They define the structure and formatting of the content within an HTML document.
+Examples of tags include <html>, <head>, <body>, <p>, <div>, <a>, etc.
+Tags can have attributes, which provide additional information or properties to the element they are applied to.
+
+HTML Elements:
+Elements are composed of tags, along with their content and any attributes.
+Elements consist of an opening tag, content, and a closing tag (except for void elements).
+The opening tag marks the beginning of an element and is represented by the tag name enclosed in angle brackets.
+The closing tag marks the end of an element and is represented by the tag name preceded by a forward slash (/) enclosed in angle brackets.
+The content of an element is the text, other elements, or multimedia within the opening and closing tags.
+Examples of elements include <p>Some text</p>, <div><h1>Heading</h1><p>Paragraph</p></div>, <a href="https://example.com">Link</a>, etc.
