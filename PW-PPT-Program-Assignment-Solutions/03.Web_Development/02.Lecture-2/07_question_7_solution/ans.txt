@@ -1,0 +1,33 @@
+Q.7 What’s Grid & Flex and difference between them?
+
+Ans. Grid and Flex are two layout systems in CSS that provide different approaches to creating flexible and 
+responsive web page layouts. Here's a comparison of Grid and Flex and their differences:
+
+Flexbox (Flexible Box Layout):
+One-dimensional layout: Flexbox is primarily designed for one-dimensional layouts, either in a row or a column.
+Flex container and flex items: Flexbox requires a flex container and flex items. The container is set with 
+display: flex, and its direct child elements become flex items.
+Flex direction: Flexbox allows you to define the flow direction of the flex items using flex-direction, which can 
+be either "row" (left to right) or "column" (top to bottom).
+Main axis and cross axis: Flexbox has a main axis and a cross axis, which are determined by the flex direction. 
+The main axis is the primary direction in which the flex items are laid out.
+Flexible sizing: Flexbox provides flexible sizing and alignment of flex items along the main axis and cross axis 
+using properties like flex-grow, flex-shrink, and flex-basis.
+Flex-wrap: Flexbox can control whether flex items wrap onto multiple lines or remain on a single line using flex-wrap.
+Alignment: Flexbox offers powerful alignment capabilities using properties like justify-content (along the main 
+axis) and align-items (along the cross axis).
+Nested layout: Flexbox works well with nested layouts, allowing you to create complex structures with ease.
+
+Grid (CSS Grid Layout):
+Two-dimensional layout: Grid is designed for two-dimensional layouts, allowing you to create rows and columns simultaneously.
+Grid container and grid items: Grid requires a grid container and grid items. The container is set with
+display: grid, and its direct child elements become grid items.
+Rows and columns: Grid allows you to define rows and columns using properties like grid-template-rows and grid-template-columns.
+Grid tracks: Grid provides a flexible grid track system, where you can define the size and behavior of rows and columns.
+Cell placement: Grid enables precise control over the placement of grid items within the grid cells using 
+properties like grid-row and grid-column.
+Grid gaps: Grid allows you to specify gaps between rows and columns using properties like grid-row-gap and 
+grid-column-gap.
+Alignment: Grid provides powerful alignment capabilities using properties like justify-items (for horizontal 
+alignment) and align-items (for vertical alignment).
+Grid areas: Grid introduces the concept of named grid areas, allowing you to define and name areas of the grid, making it easier to create complex layouts.
