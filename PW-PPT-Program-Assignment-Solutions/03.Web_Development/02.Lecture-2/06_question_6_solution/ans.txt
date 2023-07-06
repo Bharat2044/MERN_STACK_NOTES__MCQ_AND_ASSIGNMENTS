@@ -1,0 +1,31 @@
+Q.6 What’s z-index and How does it Function ?
+
+Ans. The z-index property in CSS is used to control the stacking order of elements along the z-axis, which 
+determines their relative positions in the vertical stacking order on a web page. The z-axis represents the 
+depth or elevation of elements, with higher values appearing closer to the viewer.
+
+Here's how the z-index property functions:
+(1) Stacking Context:
+Each positioned element with a z-index value other than "auto" creates a stacking context.
+Stacking contexts establish a local coordinate system for the z-axis, allowing elements within that context to be 
+stacked relative to each other.
+
+(2) Stacking Order:
+Elements with a higher z-index value are positioned in front of elements with lower z-index values within the 
+same stacking context.
+If multiple elements share the same z-index value, their stacking order is determined by their order in the HTML 
+markup, with the later elements appearing on top.
+
+(3) Parent-Child Relationship:
+The z-index property is inherited by child elements from their parent elements, creating a stacking context 
+within that parent.
+Child elements with a higher z-index value than their siblings will be positioned in front of their siblings 
+within the same stacking context.
+
+(4) Negative z-index:
+Elements with a negative z-index value are positioned behind elements with a positive z-index value within the 
+same stacking context.
+Elements with a z-index of "-1" appear behind elements with a z-index of "0" or higher.
+
+It's important to note that the z-index property only works on positioned elements, which are elements with a position value of "relative", "absolute", or "fixed". Elements with a position value of "static" are not affected 
+by the z-index property.
