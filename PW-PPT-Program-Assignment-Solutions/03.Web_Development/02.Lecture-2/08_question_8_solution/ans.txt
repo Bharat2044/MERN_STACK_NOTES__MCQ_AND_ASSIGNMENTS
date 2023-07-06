@@ -1,0 +1,25 @@
+Q.8 Difference between absolute and relative and sticky and fixed position explain with example.
+
+Ans. 
+(1) 
+Absolute Positioning:
+Absolute positioning allows elements to be positioned relative to their closest positioned ancestor or the document itself if no positioned ancestor exists.
+When an element is positioned absolutely, it is taken out of the normal document flow, meaning it does not affect the position of other elements.
+Absolute positioned elements are placed using coordinates defined by the top, right, bottom, and left properties.
+
+(2) Relative Positioning:
+Relative positioning allows elements to be positioned relative to their normal position within the document flow.
+When an element is positioned relatively, it still occupies its original space in the document flow, but can be shifted using the top, right, bottom, and left properties.
+Relative positioning does not take the element out of the normal document flow, so other elements are still affected by its presence.
+
+(3) Fixed Positioning:
+Fixed positioning allows elements to be positioned relative to the browser window, regardless of scrolling.
+When an element is positioned fixed, it is taken out of the normal document flow and remains fixed at its specified position even when the page is scrolled.
+Fixed positioned elements are placed using coordinates defined by the top, right, bottom, and left properties.
+
+(4) Sticky Positioning:
+Sticky positioning is a hybrid of relative and fixed positioning.
+It behaves like relative positioning until the element reaches a specified threshold, at which point it becomes fixed.
+Sticky positioning is often used to create sticky headers or navigation bars that stick to the top of the viewport as the user scrolls.
+Sticky positioned elements are placed using coordinates defined by the top, right, bottom, and left properties.
+
