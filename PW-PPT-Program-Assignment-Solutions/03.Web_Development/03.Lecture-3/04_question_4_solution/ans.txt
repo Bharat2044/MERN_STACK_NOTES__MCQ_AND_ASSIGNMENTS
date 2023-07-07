@@ -1,0 +1,31 @@
+Q.4 What is the purpose of using Media Queries for Print Media?
+
+Ans. The purpose of using media queries for print media is to create styles specifically optimized for printing a web page. Media queries provide a way to apply different CSS rules when a webpage is being printed, allowing you to customize the appearance and layout to ensure the content is properly formatted for print.
+
+When users choose to print a webpage, they often have different requirements compared to viewing it on a screen. 
+Print media queries enable you to adjust the styling and layout to optimize the printed output. Here are some 
+common use cases and purposes of using media queries for print media:
+
+(1) Adjusting Layout: Media queries allow you to modify the layout of the page for print. You can hide or rearrange 
+elements that are not necessary or may not make sense in a printed version. For example, you might want to remove 
+navigation menus, sidebars, or advertisements to make the printed content more focused and readable.
+
+(2) Styling for Print: Media queries enable you to define specific styles for print, such as adjusting font sizes, 
+line heights, margins, and colors. You can choose styles that work better in the printed format, ensuring optimal 
+readability and preserving the overall visual integrity of the content.
+
+(3) Controlling Page Breaks: With media queries, you can control how content is divided across pages when printed. 
+You can specify where page breaks should occur, preventing awkward content splitting or ensuring that certain 
+sections always start on a new page.
+
+(4) Hiding or Showing Content: Media queries allow you to selectively hide or show certain elements when the page is 
+printed. This can be useful for removing unnecessary content that is only relevant to the screen version, or for 
+including additional information that is specific to the print version.
+
+By utilizing media queries for print media, you can create a more print-friendly version of your web page, 
+enhancing its readability and usability when it is printed out. This helps ensure that your content is 
+well-presented and can be easily consumed in a physical format.
+
+
+
+
