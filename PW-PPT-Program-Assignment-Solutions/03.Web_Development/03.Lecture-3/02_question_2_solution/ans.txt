@@ -1,0 +1,38 @@
+Q.2 How do you define a media query in CSS?
+
+Ans. In CSS, you define a media query using the @media rule followed by a set of conditions or 
+rules that specify when the styles inside the media query should be applied. Here's the general 
+syntax of a media query:
+
+@media media-type and (media-feature) {
+  /* CSS rules to be applied when the media query conditions are met */
+}
+
+
+Let's break down the different parts of a media query:
+
+@media: This is the keyword that indicates the start of a media query.
+
+media-type: This specifies the type of media being targeted. It can be one of several values, such 
+as all (default), screen, print, speech, etc. The screen media type is commonly used for targeting 
+devices with screens, like computers and mobile devices.
+
+media-feature: This is the condition or criteria based on which the media query will be evaluated. 
+Media features can include characteristics like viewport width, device width, screen resolution, 
+orientation, etc.
+
+Here's an example of a media query that targets screens with a maximum width of 768 pixels:
+
+@media screen and (max-width: 768px) {
+  /* CSS rules to be applied when the screen width is 768 pixels or less */
+}
+
+
+Inside the curly braces, you can place the CSS rules that will be applied when the conditions 
+specified in the media query are met. These rules can include changes to the layout, typography, 
+colors, or any other styling adjustments you want to make for the targeted devices or screen sizes.
+
+It's worth noting that you can have multiple media queries in your CSS file, allowing you to create 
+different styles for different device characteristics or combinations of conditions. This way, you 
+can provide customized styles for various breakpoints and ensure your website looks good on a range 
+of devices.
