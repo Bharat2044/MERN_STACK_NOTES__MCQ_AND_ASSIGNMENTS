@@ -1,0 +1,32 @@
+Q.5 What is the purpose of the orientation media feature?
+
+Ans. The purpose of the orientation media feature in CSS is to detect and target the orientation of the device's screen. 
+It allows you to apply different styles based on whether the device's screen is in portrait or landscape 
+orientation. The orientation media feature is particularly useful for creating responsive designs that can adapt to 
+different screen orientations.
+
+The orientation media feature can have two possible values:
+(1) portrait: This value represents a vertical or upright orientation, where the height of the screen is greater than the width. It is typically associated with devices held in a vertical position, like smartphones or tablets in portrait mode.
+
+(2) landscape: This value represents a horizontal orientation, where the width of the screen is greater than the height. It is associated with devices held in a horizontal position, such as smartphones or tablets in landscape mode, or desktop monitors in a landscape layout.
+
+By using the orientation media feature, you can target specific styles or apply layout adjustments based on the 
+screen orientation. For example, you might want to display content in a single-column layout in portrait mode, but 
+switch to a multi-column layout in landscape mode to take advantage of the wider screen space.
+
+Here's an example of using the orientation media feature in a media query:
+@media screen and (orientation: landscape) {
+  /* Styles for landscape orientation */
+}
+
+@media screen and (orientation: portrait) {
+  /* Styles for portrait orientation */
+}
+
+
+In the example above, different styles can be defined for each screen orientation. When the device is in landscape 
+mode, the styles within the first media query will be applied, and when the device is in portrait mode, the styles 
+within the second media query will be applied.
+
+By leveraging the orientation media feature, you can create more tailored and optimized designs for different 
+screen orientations, providing a better user experience on devices that support changes in orientation.
