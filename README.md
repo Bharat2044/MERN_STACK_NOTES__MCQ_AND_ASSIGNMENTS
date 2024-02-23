@@ -6,11 +6,15 @@
 ## [**_PW-Skills-Assignments_**](./PW-Skills-Assignments/ "PW-Skills-Assignments")
 - ### [01. Web Fundamental](./PW-Skills-Assignments/01.%20Web%20Fundamental/ "Web Fundamental Assignments")
 - ### [02. Emmets](./PW-Skills-Assignments/02.%20Emmets/ "Emmets Assignments")
-- ### [03.HTML](./PW-Skills-Assignments/03.HTML/ "HTML Assignments")
-- ### [04.CSS](./PW-Skills-Assignments/04.CSS/ "CSS Assignments")
-- ### [05.JavaScript](./PW-Skills-Assignments/05.JavaScript/ "JavaScript Assignments")
-- ### [06.Fundamentals of Database](./PW-Skills-Assignments/06.Fundamentals%20of%20Database/ "Fundamentals of Database")
-- ### [07.Node JS](./PW-Skills-Assignments/07.Node%20JS/ "Node JS")
+- ### [03. HTML](./PW-Skills-Assignments/03.%20HTML/ "HTML Assignments")
+- ### [04. CSS](./PW-Skills-Assignments/04.%20CSS/ "CSS Assignments")
+- ### [05. JavaScript](./PW-Skills-Assignments/05.%20JavaScript/ "JavaScript Assignments")
+- ### [06. Fundamentals of Database](./PW-Skills-Assignments/06.%20Fundamentals%20of%20Database/ "Fundamentals of Database")
+- ### [07. NodeJS](./PW-Skills-Assignments/07.%20NodeJS/ "NodeJS")
+- ### [08. ExpressJS](./PW-Skills-Assignments/08.%20ExpressJS/ "ExpressJS")
+- ### [09. Auth with Express](./PW-Skills-Assignments/09.%20Auth%20with%20Express/ "Auth with Express")
+- ### [10. ReactJS](./PW-Skills-Assignments/10.%20ReactJS/ "ReactJS")
+- ### [11. Tailwind CSS](./PW-Skills-Assignments/11.%20Tailwind%20CSS/ "Tailwind CSS")
 
 <br>
 
