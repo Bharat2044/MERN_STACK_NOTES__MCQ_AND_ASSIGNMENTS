@@ -22,13 +22,13 @@
 ## [**_PW-Skills-MCQ_**](./PW-Skills-MCQ/ "PW-Skills-MCQ")
 - ### [01.Web Fundamental](./PW-Skills-MCQ/01.Web%20Fundamental/ "Web Fundamental MCQ")
 - ### [02. Emmets](./PW-Skills-MCQ/02.Emmets/ "Emmets MCQ")
-- ### [03.HTML](./PW-Skills-MCQ/03.HTML/ "HTML MCQ")
-- ### [04.CSS](./PW-Skills-MCQ/04.CSS/ "CSS MCQ")
-- ### [05.JavaScript](./PW-Skills-MCQ/05.JavaScript/ "JavaScript MCQ")
-- ### [06.Git and GitHub](./PW-Skills-MCQ/06.Git%20and%20GitHub/ "Git and GitHub MCQ")
-- ### [07.Networking and Operating System](./PW-Skills-MCQ/07.Networking%20and%20Operating%20System/ "Networking and Operating System MCQ")
-- ### [08.Fundamentals of Database](./PW-Skills-MCQ/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
-- ### [09.Node JS](./PW-Skills-MCQ/09.Node%20JS/ "Node JS")
+- ### [03. HTML](./PW-Skills-MCQ/03.HTML/ "HTML MCQ")
+- ### [04. CSS](./PW-Skills-MCQ/04.CSS/ "CSS MCQ")
+- ### [05. JavaScript](./PW-Skills-MCQ/05.JavaScript/ "JavaScript MCQ")
+- ### [06. Git and GitHub](./PW-Skills-MCQ/06.Git%20and%20GitHub/ "Git and GitHub MCQ")
+- ### [07. Networking and Operating System](./PW-Skills-MCQ/07.Networking%20and%20Operating%20System/ "Networking and Operating System MCQ")
+- ### [08. Fundamentals of Database](./PW-Skills-MCQ/08.Fundamentals%20of%20Database/ "Fundamentals of Database")
+- ### [09. Node JS](./PW-Skills-MCQ/09.Node%20JS/ "Node JS")
 
 <br>
 
